@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: minisklearn
+Version: 0.1.0
+Summary: Un mini scikit-learn écrit de zéro avec Numpy, testé contre scikit-learn.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.24
+Provides-Extra: dev
+Requires-Dist: pytest>=7; extra == "dev"
+Requires-Dist: scikit-learn>=1.3; extra == "dev"
+Requires-Dist: matplotlib>=3.7; extra == "dev"
+
+Un mini scikit-learn écrit de zéro avec NumPy : mêmes interfaces (`fit`, `predict`, `score`),
+chaque modèle testé contre scikit-learn.

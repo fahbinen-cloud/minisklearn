@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+minisklearn.egg-info/PKG-INFO
+minisklearn.egg-info/SOURCES.txt
+minisklearn.egg-info/dependency_links.txt
+minisklearn.egg-info/requires.txt
+minisklearn.egg-info/top_level.txt

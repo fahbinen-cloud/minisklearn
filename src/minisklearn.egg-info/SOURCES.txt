@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/minisklearn/__init__.py
+src/minisklearn.egg-info/PKG-INFO
+src/minisklearn.egg-info/SOURCES.txt
+src/minisklearn.egg-info/dependency_links.txt
+src/minisklearn.egg-info/requires.txt
+src/minisklearn.egg-info/top_level.txt
+tests/test_smoke.py
